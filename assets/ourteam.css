@@ -1,0 +1,318 @@
+#ourteam {
+    width: 100%;
+    height: 1000px;
+    background-color: white;
+}
+
+#ourteam1 {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+
+    float: left;
+}
+
+#ourteam2 {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+
+#ourteam3 {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+
+#ourteam4 {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+
+#ourteam5 {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+
+#ourteam6 {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+
+#ourteam7 {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+
+#ourteam8 {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+
+#ourteam9 {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: left;
+}
+
+
+a:hover
+{
+color:yellow;
+}
+a
+{
+text-decoration:none;
+}
+#container{
+width:100%;
+height:1000px;
+background-color:#1c3657;
+margin:auto;
+
+}
+
+td:hover
+{
+text-decoration:underline;
+}
+
+#banner{
+width:100%;
+height:50px;
+background-color:brown;
+}
+#logo{
+width:50%;
+height:50px;
+background-color:lightgrey;
+float:left;
+}
+#logotext{
+color:black;
+family-font:none;
+display:inline;
+
+padding-left:80px;
+
+}
+
+#menubox{
+width:50%;
+height:50px;
+background-color:lightgrey;
+float:right;
+display:inline;
+}
+table{
+width:100%;
+}
+td{
+width:50px;
+color:black;
+
+}
+
+
+#menu{
+width:100%;
+height:100px;
+background-color:white;
+}
+#menu1{
+width:50%;
+height:100px;
+background-color:white;
+float:left;
+}
+#image
+{
+margin-left:50px;
+display:inline;
+}
+
+#menutext{
+color:black;
+margin-left:10px;
+display:inline;
+}
+
+#textmenu{
+color:grey;
+margin-left:100px;
+}
+
+
+#menu2{
+width:50%;
+height:100px;
+background-color:white;
+float:right;
+}
+#feedback{
+color:brown;
+margin-top:-40px;
+padding-left:60px;
+}
+#bbsm{
+color:blue;
+margin-top:-20px;
+padding-left:60px;
+}
+#aarju{
+margin-top:-70px;
+padding-left:300px;
+}
+
+
+
+#box{
+width:100%;
+height:50px;
+background-color:skyblue;
+
+}
+table{
+width:100%;
+}
+td{
+width:50px;
+color:black;
+
+}
+
+#slider{
+width:100%;
+height:200px;
+background-color:white;
+overflow:hidden;
+background-image:url(Capture2.PNG)
+}
+#intro{
+width:100%;
+height:500px;
+background-color:white;
+}
+#intro1{
+width:30%;
+height:410px;
+background-color:white;
+float:left;
+margin-top: 60px;
+}
+#contenttext{
+color:black;
+}
+
+#intro2{
+font-style: italic;
+font-family: cursive;
+margin-top: 10px;
+width:70%;
+height:450px;
+background-color:white;
+float:right;
+}
+
+#textcontent{
+color:black;
+}
+#capture{
+margin-left:50px;
+}
+#subcontent{
+width:100%;
+height:500px;
+background-color:lime;
+background-image:url(shopping.jpg);
+}
+
+
+#save{
+width:100%;
+height:75px;
+background-color:#1c3657;
+}
+
+#savetext{
+color:white;
+text-align: center;
+}
+
+#bottom{
+width:100%;
+height:300px;
+background-color:#1c3657;
+}
+#bottom1{
+width:25%;
+height:300px;
+background-color:#1c3657;
+float:left;
+}
+#customer{
+color:white;
+font-size:25px;
+padding-left:20px;
+}
+#membership{
+color:white;
+padding-left:20px;
+}
+#bottom2{
+width:25%;
+height:300px;
+background-color:#1c3657;
+float:left;
+}
+#Links{
+color:white;
+font-size:25px;
+padding-left:20px;
+}
+#clubcard{
+color:white;
+padding-left:20px;
+}
+
+#bottom3{
+width:25%;
+height:300px;
+background-color:#1c3657;
+float:left;
+}
+#Find
+{
+color:white;
+padding-left:25px;
+font-size:23px;
+}
+#kalanki{
+color:white;
+padding-left:25px;
+}
+#bottom4{
+width:25%;
+height:300px;
+background-color:#1c3657;
+float:left;
+}
+#connect{
+color:white;
+padding-left:10px;
+font-size:23px;
+width: 250px;
+}
